@@ -1,0 +1,4 @@
+movement_id|product_id|change|reason|username|timestamp
+M001|P001|25|Initial stock|admin|2026-01-15T09:00:00
+M002|P002|8|Initial stock|admin|2026-01-15T09:05:00
+M003|P003|6|Initial stock|admin|2026-01-15T09:10:00
