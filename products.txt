@@ -1,1 +1,4 @@
-
+product_id|name|category|supplier_id|quantity|reorder_level|unit_cost
+P001|USB Keyboard|Accessories|S001|25|5|18.50
+P002|Wireless Mouse|Accessories|S001|8|10|12.00
+P003|Monitor 24 inch|Displays|S002|6|2|145.99
