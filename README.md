@@ -1,7 +1,7 @@
 # Clent-F.-Angeline-M.
 Final Project : Python System CSC 204-A
 
-Invetory Management System
+Centoys Invetory Management System
 
 A terminal-based inventory application built with python 3. It stores data in pipe-delimited '.txt' files and 
 support administrator and staff roles.
